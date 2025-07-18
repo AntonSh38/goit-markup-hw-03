@@ -55,6 +55,7 @@ img {
 }
 
 .header-logo {
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -64,6 +65,7 @@ img {
 }
 
 .header-logoaccent {
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -315,6 +317,7 @@ img {
 }
 
 .footer-logo {
+  font-weight: 700;
   margin-bottom: 16px;
   display: inline-block;
 
@@ -326,6 +329,7 @@ img {
 }
 
 .footer-logoaccent {
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
